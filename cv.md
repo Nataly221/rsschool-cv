@@ -3,7 +3,7 @@
 
 Contact:     @NatalyEastWest
 
-Linkdin: **Linkdin**
+
 
 **WORK EXPERIENCE**          **East&West Employment Exchange** Jun 2016 — Aug 2022
                                ***Recruitment Manager***
@@ -25,7 +25,7 @@ EDUCATION                   **Project Management**
 
 SKILLS                       HTML CSS Figma  Web-design
 
-Language certificate:        English     (https://www.efset.org/cert/jWVsov)   
+Language certificate:        English     
 
 
 
