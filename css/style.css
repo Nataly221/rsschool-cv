@@ -7,14 +7,14 @@ body {
     font-size: 12px;
     color: #222;    
 }
-#main {
+.main {
     background: #fff;
     width: 900px;
     padding: 35px;
-    margin: 0 auto 15px auto;
     overflow: hidden;
     box-shadow: 0 0 6px #ccc;
     }
+
 .title {
     margin: 0px 0 20px 0;
     line-height: 42px;
